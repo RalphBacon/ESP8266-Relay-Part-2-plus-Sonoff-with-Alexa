@@ -1,7 +1,7 @@
 # ESP8266 Relay (Part 2) plus Sonoff (with Alexa)
 New code for the ESP8266-01 and a new phone app to control it all - plus first look at the 4-channel Sonoff using Alexa
 
-See video #100 at https://www.youtube.com/RalphBacon
+# See video #110 at https://www.youtube.com/RalphBacon  
 (Direct link to video: https://youtu.be/ul2vtDXREBo)
 
 So let's finish up on the "improvements" I've made to the ESP8266-01 relay module. I've rewritten the code for the ESP-01 and generated a new app for my phone, with a simple ON/OFF function. Basically, I've turned this unit into something similar to a single channel Sonoff!

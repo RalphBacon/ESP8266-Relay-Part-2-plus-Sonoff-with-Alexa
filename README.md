@@ -4,6 +4,12 @@ New code for the ESP8266-01 and a new phone app to control it all - plus first l
 # See video #110 at https://www.youtube.com/RalphBacon  
 (Direct link to video: https://youtu.be/ul2vtDXREBo)
 
+OK, my "rant" in this video may have been orchestrated and done for artistic, light-hearted reasons, but I was also trying to make a point: some Far Eastern components are absolute tat.
+
+It doesn't have to be that way, of course. Look at Apple components, built to the very highest standard possible - in the Far East, mostly. Thank goodness, then, that my Sonoff is a well-thought-out, quality circuit board with a high degree of capability.
+
+But I'm getting ahead of myself, first things first.
+
 So let's finish up on the "improvements" I've made to the ESP8266-01 relay module. I've rewritten the code for the ESP-01 and generated a new app for my phone, with a simple ON/OFF function. Basically, I've turned this unit into something similar to a single channel Sonoff!
 
 However, it still required more work (and a hack, er, hardware reconfiguration) to do all this and we really should not have to do any of this. I discovered a simpler relay module that also takes an ESP-01 and seemed to be the answer. Was it? Watch the video and find out.
